@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D57EB00F-C553-4C4D-AD3B-E3BD63C92189}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{C00913FA-63D4-4130-9A3A-9A66152EF91B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GhibliServer.Domain", "src\Core\GhibliServer.Domain\GhibliServer.Domain.csproj", "{3CD3B5C0-97A4-4937-B7D2-42F175F575E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GhibliServer.Application", "src\Core\GhibliServer.Application\GhibliServer.Application.csproj", "{2C5A8307-D2D9-4646-8D81-CED39A2C7AEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C98DCF67-FD2A-4F58-B077-A6EDA798D510}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GhibliServer.Persistence", "src\Infrastructure\GhibliServer.Persistence\GhibliServer.Persistence.csproj", "{BFE674E9-F886-4279-8885-6F79FC961644}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPI", "WebAPI", "{8DA984C6-BD4A-41B5-AB47-537EBEEAB051}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GhibliServer.WebAPI", "src\WebAPI\GhibliServer.WebAPI\GhibliServer.WebAPI.csproj", "{A8B76072-6180-4D3B-AF04-4D3D501227D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD3B5C0-97A4-4937-B7D2-42F175F575E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD3B5C0-97A4-4937-B7D2-42F175F575E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD3B5C0-97A4-4937-B7D2-42F175F575E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD3B5C0-97A4-4937-B7D2-42F175F575E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5A8307-D2D9-4646-8D81-CED39A2C7AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5A8307-D2D9-4646-8D81-CED39A2C7AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5A8307-D2D9-4646-8D81-CED39A2C7AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5A8307-D2D9-4646-8D81-CED39A2C7AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE674E9-F886-4279-8885-6F79FC961644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE674E9-F886-4279-8885-6F79FC961644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE674E9-F886-4279-8885-6F79FC961644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE674E9-F886-4279-8885-6F79FC961644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B76072-6180-4D3B-AF04-4D3D501227D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B76072-6180-4D3B-AF04-4D3D501227D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B76072-6180-4D3B-AF04-4D3D501227D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B76072-6180-4D3B-AF04-4D3D501227D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C00913FA-63D4-4130-9A3A-9A66152EF91B} = {D57EB00F-C553-4C4D-AD3B-E3BD63C92189}
+		{3CD3B5C0-97A4-4937-B7D2-42F175F575E2} = {C00913FA-63D4-4130-9A3A-9A66152EF91B}
+		{2C5A8307-D2D9-4646-8D81-CED39A2C7AEC} = {C00913FA-63D4-4130-9A3A-9A66152EF91B}
+		{C98DCF67-FD2A-4F58-B077-A6EDA798D510} = {D57EB00F-C553-4C4D-AD3B-E3BD63C92189}
+		{BFE674E9-F886-4279-8885-6F79FC961644} = {C98DCF67-FD2A-4F58-B077-A6EDA798D510}
+		{8DA984C6-BD4A-41B5-AB47-537EBEEAB051} = {D57EB00F-C553-4C4D-AD3B-E3BD63C92189}
+		{A8B76072-6180-4D3B-AF04-4D3D501227D9} = {8DA984C6-BD4A-41B5-AB47-537EBEEAB051}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3F28FF-2BBA-4F5E-A8BC-BC0C761216A6}
+	EndGlobalSection
+EndGlobal

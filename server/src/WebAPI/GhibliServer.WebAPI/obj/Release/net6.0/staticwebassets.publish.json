@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "y8MECygRw8718OOflhok2a9IDdR8GwdUIGQFRgO5qCE=",
+  "Source": "GhibliServer.WebAPI",
+  "BasePath": "_content/GhibliServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GhibliServer.WebAPI\\wwwroot",
+      "Source": "GhibliServer.WebAPI",
+      "ContentRoot": "C:\\Users\\Администратор\\Desktop\\GhibliProject\\GhibliServer\\src\\WebAPI\\GhibliServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/GhibliServer.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Администратор\\Desktop\\GhibliProject\\GhibliServer\\src\\WebAPI\\GhibliServer.WebAPI\\wwwroot\\templates\\resetPassword.html",
+      "SourceId": "GhibliServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Администратор\\Desktop\\GhibliProject\\GhibliServer\\src\\WebAPI\\GhibliServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/GhibliServer.WebAPI",
+      "RelativePath": "templates/resetPassword.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\templates\\resetPassword.html"
+    },
+    {
+      "Identity": "C:\\Users\\Администратор\\Desktop\\GhibliProject\\GhibliServer\\src\\WebAPI\\GhibliServer.WebAPI\\wwwroot\\templates\\verify.html",
+      "SourceId": "GhibliServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Администратор\\Desktop\\GhibliProject\\GhibliServer\\src\\WebAPI\\GhibliServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/GhibliServer.WebAPI",
+      "RelativePath": "templates/verify.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\templates\\verify.html"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\bin\Release\net6.0\GhibliServer.Application.deps.json
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\bin\Release\net6.0\GhibliServer.Application.dll
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\bin\Release\net6.0\GhibliServer.Application.pdb
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\bin\Release\net6.0\GhibliServer.Domain.dll
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\bin\Release\net6.0\GhibliServer.Domain.pdb
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.csproj.CopyComplete
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.dll
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\refint\GhibliServer.Application.dll
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\GhibliServer.Application.pdb
+C:\Users\Администратор\Desktop\GhibliProject\GhibliServer\src\Core\GhibliServer.Application\obj\Release\net6.0\ref\GhibliServer.Application.dll
